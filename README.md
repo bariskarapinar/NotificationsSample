@@ -19,7 +19,11 @@ This project was built to transition from basic Android concepts to advanced sys
 
 ## 🎨 Visual Showcase
 
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1f19709-6716-4914-b973-9d5fc00c7cbb" width="24%">
+  <img src="https://github.com/user-attachments/assets/6a14d5da-24ab-45a9-8e4f-95082179aa1f" width="24%">
+  <img src="https://github.com/user-attachments/assets/38883dc9-df26-4ca5-8cfa-1a846e0858ff" width="24%">
+</p>
 
 ---
 
