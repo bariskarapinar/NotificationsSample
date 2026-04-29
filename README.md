@@ -145,5 +145,4 @@ Through this project, I mastered:
 
 <div align="center">
   <p>Developed with ❤️ for the Android Community</p>
-  <b>[YOUR_NAME_HERE]</b>
 </div>
